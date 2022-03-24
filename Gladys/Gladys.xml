@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>bash</Shell>
   <Privileged>true</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/121498-support-gladys-privacy-first-open-source-home-assistant/</Support>
   <Project>https://gladysassistant.com/</Project>
   <Overview>Gladys Assistant (https://gladysassistant.com) is a privacy-first, open-source home assistant. Gladys helps you centralize your connected devices, visualize data on your dashboards and build automations to make your daily life easier.&#xD;
 &#xD;
@@ -20,9 +20,9 @@ You can support the project here : https://www.buymeacoffee.com/gladysassistant&
   <ExtraParams>--restart=always --log-opt max-size=10m</ExtraParams>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1647980862</DateInstalled>
+  <DateInstalled>1648116689</DateInstalled>
   <DonateText/>
-  <DonateLink>https://www.buymeacoffee.com/gladysassistant</DonateLink>
+  <DonateLink/>
   <Description>Gladys Assistant (https://gladysassistant.com) is a privacy-first, open-source home assistant. Gladys helps you centralize your connected devices, visualize data on your dashboards and build automations to make your daily life easier.&#xD;
 &#xD;
 You can support the project here : https://www.buymeacoffee.com/gladysassistant&#xD;
