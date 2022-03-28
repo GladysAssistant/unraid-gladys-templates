@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>Gladys</Name>
+  <Name>Gladys Assistant</Name>
   <Repository>gladysassistant/gladys:v4</Repository>
   <Registry>https://hub.docker.com/r/gladysassistant/gladys/</Registry>
   <Network>host</Network>
