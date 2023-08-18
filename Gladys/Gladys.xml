@@ -17,7 +17,7 @@ You can support the project here : https://www.buymeacoffee.com/gladysassistant&
   <WebUI>http://[IP]:[PORT:8006]</WebUI>
   <TemplateURL/>
   <Icon>https://gladysassistant.com/en/img/external/github-gladys-logo.png</Icon>
-  <ExtraParams>--restart=always --log-opt max-size=10m</ExtraParams>
+  <ExtraParams>--restart=always --log-opt max-size=10m --cgroupns=host</ExtraParams>
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1648126513</DateInstalled>
